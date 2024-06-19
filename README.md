@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hobbs2k8
+- 👋 Hi, I’m @Arnav Kakarala
 - 👀 I’m interested in ... AI
 - 🌱 I’m currently learning ... more about neural pathways
 - 💞️ I’m looking to collaborate on ... AI related Projects
